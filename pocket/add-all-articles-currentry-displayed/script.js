@@ -31,7 +31,7 @@
 	KRTCreateShortcut._banner = '\
 // ==UserScript==\n\
 // @ShortcutManager\n\
-// @name Add All Articles to Pocket on Feedly\n\
+// @name Add all articles currently displayed to Pocket on Feedly\n\
 // @namespace 4cEyiXLEOEsH\n\
 // @key Shift+a\n\
 // @include http://cloud.feedly.com/*\n\
